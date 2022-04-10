@@ -1,0 +1,40 @@
+1. What is React ?
+2. How create app & file folder structure
+3. Components in React
+4. Functional & Class components
+	-lifecycle methods
+5. States & Props
+6. Jsx in React
+7. Event Functions
+	-onClick
+	-onSubmit
+	-onChange
+	-onMouseEnter
+	-onMouseLeave
+8. Conditional Rendering & Ternary Operators
+9. Hooks in React
+	-useState()
+	-useEffect()
+	-useContext()
+	-useForm()
+	-useParam()
+	-useReducer()
+10. Style in React
+	-inline
+	-internal
+	-external
+11. Handle form data
+12. Controlled & Uncontrolled component
+13. High Order Component
+14. Routing & Dynamic Routing
+15. Lazy Loading
+16. API (fetching & post data)
+17. Privious state
+18. Prifilled form
+19. Redux
+	-action
+	-reducer
+	-store
+21. Redux persist reducer 
+
+  
